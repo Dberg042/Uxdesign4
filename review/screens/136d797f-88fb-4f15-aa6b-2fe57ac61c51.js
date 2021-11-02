@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635887042313.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635887042313-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635888009972.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635888009972-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-136d797f-88fb-4f15-aa6b-2fe57ac61c51" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer commentable non-processed" alignment="left" name="uia rebus eng" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/136d797f-88fb-4f15-aa6b-2fe57ac61c51-1635887042313.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/136d797f-88fb-4f15-aa6b-2fe57ac61c51-1635887042313-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/136d797f-88fb-4f15-aa6b-2fe57ac61c51-1635887042313-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/136d797f-88fb-4f15-aa6b-2fe57ac61c51-1635888009972.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/136d797f-88fb-4f15-aa6b-2fe57ac61c51-1635888009972-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/136d797f-88fb-4f15-aa6b-2fe57ac61c51-1635888009972-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Button_2" class="pie button multiline manualfit firer commentable non-processed" customid="Sang bingo p&aring; heidis16.08"   datasizewidth="350.0px" datasizeheight="70.0px" dataX="14.0" dataY="358.0" >\
         <div class="backgroundLayer">\
@@ -2424,7 +2424,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
         </div>\
       </div>\
 \
-      <div id="s-Button_9" class="pie button multiline manualfit firer click commentable non-processed" customid="Im coming"   datasizewidth="330.0px" datasizeheight="50.0px" dataX="22.5" dataY="590.0" >\
+      <div id="s-Button_9" class="pie button multiline manualfit firer click commentable non-processed" customid="I&#039;m coming"   datasizewidth="330.0px" datasizeheight="50.0px" dataX="22.5" dataY="590.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -2433,7 +2433,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Button_9_0">Im coming</span>\
+                <span id="rtr-s-Button_9_0">I&#039;m coming</span>\
               </div>\
             </div>\
           </div>\

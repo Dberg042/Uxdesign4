@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635887042313.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635887042313-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635888009972.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635888009972-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-373ba7c4-cdec-4418-a6cc-201048f85921" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer commentable non-processed" alignment="left" name="grupper eng" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/373ba7c4-cdec-4418-a6cc-201048f85921-1635887042313.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/373ba7c4-cdec-4418-a6cc-201048f85921-1635887042313-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/373ba7c4-cdec-4418-a6cc-201048f85921-1635887042313-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/373ba7c4-cdec-4418-a6cc-201048f85921-1635888009972.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/373ba7c4-cdec-4418-a6cc-201048f85921-1635888009972-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/373ba7c4-cdec-4418-a6cc-201048f85921-1635888009972-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Button_7" class="pie button multiline manualfit firer click commentable non-processed" customid="My group"   datasizewidth="350.0px" datasizeheight="70.0px" dataX="13.0" dataY="110.0" >\
         <div class="backgroundLayer">\
@@ -166,7 +166,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph" class="pie richtext autofit firer ie-background commentable non-processed" customid="Groups"   datasizewidth="89.5px" datasizeheight="37.0px" dataX="136.5" dataY="50.0" >\
+      <div id="s-Paragraph" class="pie richtext autofit firer ie-background commentable non-processed" customid="Groups"   datasizewidth="104.1px" datasizeheight="34.0px" dataX="136.5" dataY="50.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -181,7 +181,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_1" class="pie richtext autofit firer ie-background commentable non-processed" customid="Events"   datasizewidth="79.4px" datasizeheight="37.0px" dataX="147.8" dataY="300.0" >\
+      <div id="s-Paragraph_1" class="pie richtext autofit firer ie-background commentable non-processed" customid="Events"   datasizewidth="97.8px" datasizeheight="34.0px" dataX="147.8" dataY="300.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\

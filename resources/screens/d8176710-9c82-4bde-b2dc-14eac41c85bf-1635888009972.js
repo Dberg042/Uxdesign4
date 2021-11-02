@@ -1,5 +1,5 @@
 jQuery("#simulation")
-  .on("click", ".s-396162fd-c3c5-4366-ae74-cc26b35b1b88 .click", function(event, data) {
+  .on("click", ".s-d8176710-9c82-4bde-b2dc-14eac41c85bf .click", function(event, data) {
     var jEvent, jFirer, cases;
     if(jimUtil.isAlternateModeActive()) return;
     if(data === undefined) { data = event; }
@@ -14,9 +14,9 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/0657596e-a031-44d4-ba9d-2fdb9fabeb75",
+                    "target": "screens/e491d919-1c6b-4d26-9143-70fb89d2207e",
                     "transition": {
-                      "type": "slideright",
+                      "type": "slideandfade",
                       "duration": 500
                     }
                   },
@@ -41,11 +41,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/10469a4a-730d-470b-9124-9cda05cba41f",
-                    "transition": {
-                      "type": "slideright",
-                      "duration": 500
-                    }
+                    "target": "screens/d29aea19-739c-41af-b331-060507dffb7a"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -68,7 +64,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/d8176710-9c82-4bde-b2dc-14eac41c85bf",
+                    "target": "screens/396162fd-c3c5-4366-ae74-cc26b35b1b88",
                     "transition": {
                       "type": "fade",
                       "duration": 500
@@ -95,7 +91,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/faa02baf-f3e4-46d5-9496-eb635f095119"
+                    "target": "screens/a4c946da-4e3a-44b0-803f-8750ac8da30b"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -118,7 +114,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/ecd14505-ce82-4c29-8d74-4e6844bdb480"
+                    "target": "screens/c0ca084c-085f-4b0b-830c-3c7ff681597f"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -141,7 +137,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/63dcf33e-99d9-4003-abb1-911aa9599857"
+                    "target": "screens/6ddb7e29-df09-47f5-955f-8d3504b980c6"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -182,6 +178,29 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Paragraph_17")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/d12245cc-1680-458d-89dd-4f0d7fb22724"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
     } else if(jFirer.is("#s-Circle_21")) {
       cases = [
         {
@@ -191,7 +210,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/a4b7cf8d-2951-4ba1-8b6e-0fb13509eda5",
+                    "target": "screens/2750d685-eba6-48d2-8c1b-089a0cc6b28c",
                     "transition": {
                       "type": "slideleft",
                       "duration": 500
@@ -218,7 +237,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/373ba7c4-cdec-4418-a6cc-201048f85921",
+                    "target": "screens/89de5cdf-92b1-41c9-b055-c5b3b61c954b",
                     "transition": {
                       "type": "slideleft",
                       "duration": 500
@@ -245,10 +264,45 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/a4b7cf8d-2951-4ba1-8b6e-0fb13509eda5",
+                    "target": "screens/2750d685-eba6-48d2-8c1b-089a0cc6b28c",
                     "transition": {
                       "type": "slideleft",
                       "duration": 500
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    }
+  })
+  .on("swipeleft", ".s-d8176710-9c82-4bde-b2dc-14eac41c85bf .swipeleft", function(event, data) {
+    var jEvent, jFirer, cases;
+    if(jimUtil.isAlternateModeActive()) return;
+    if(data === undefined) { data = event; }
+    jEvent = jimEvent(event);
+    jFirer = jEvent.getEventFirer();
+    if(jFirer.is("#s-d8176710-9c82-4bde-b2dc-14eac41c85bf")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/2750d685-eba6-48d2-8c1b-089a0cc6b28c",
+                    "transition": {
+                      "type": "slideleft",
+                      "duration": 700
                     }
                   },
                   "exectype": "serial",
